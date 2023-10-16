@@ -1,4 +1,12 @@
-### Hi there 👋
+![plot](https://raw.githubusercontent.com/lincovil-udla/imagenes/main/imfe.svg?token=GHSAT0AAAAAACI64PYTTEHPKFJWSROOFKKAZJNKBSQ)
+
+
+# Presentación 👋
+
+# Difusión del Lenguaje Estadístico
+
+
+# Fundamentos del Big-Data Analytic
 
 <!--
 **lincovil-udla/lincovil-udla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
