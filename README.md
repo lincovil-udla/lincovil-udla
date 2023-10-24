@@ -1,10 +1,10 @@
-![plot](https://raw.githubusercontent.com/lincovil-udla/imagenes/main/imfe.svg?token=GHSAT0AAAAAACI64PYTTEHPKFJWSROOFKKAZJNKBSQ)
-
 ![](https://github.com/lincovil-udla/imagenes/blob/main/imfe.svg)
 
 
 # Presentación 👋
-h
+
+Profesor de Matemática y Estadístico. Experiencia en enseñanza en Educación Superior e Investigación. Interesado en procesos de simulación y análisis de eventos de alto riesgo. También interesado en entender el razonamiento lógico de los procesos de inferencia estadística y su ligación con la estadística computacional.
+
 # Difusión del Lenguaje Estadístico
 
 
