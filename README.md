@@ -5,7 +5,7 @@
 
 Profesor de Matemática y Estadístico. Experiencia en enseñanza en Educación Superior e Investigación. Interesado en procesos de simulación y análisis de eventos de alto riesgo. También interesado en entender el razonamiento lógico de los procesos de inferencia estadística y su ligación con la estadística computacional.
 
-# Difusión del Lenguaje Estadístico
+# Difusión de métodos e reglas de interpretación Estadistica
 
 
 # Fundamentos del Big-Data Analytic
