@@ -7,6 +7,8 @@ Profesor de Matemática y Estadístico. Experiencia en enseñanza en Educación 
 
 # Difusión de métodos e reglas de interpretación Estadistica
 
+[Libro digital de de las sesiones](https://lincovil-udla.github.io/difusion_educacion_estadistica/index.html)
+
 
 # Fundamentos del Big-Data Analytic
 
